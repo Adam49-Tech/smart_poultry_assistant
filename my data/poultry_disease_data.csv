@@ -1,0 +1,11 @@
+coughing,sneezing,nasal_discharge,watery_eyes,green_droppings,yellow_droppings,bloody_stool,depressed,ruffled_feathers,loss_appetite,swollen_eyes,open_mouth_breathing,paralysis,trembling,twisted_neck,drop_in_egg_production,soft_shelled_eggs,egg_abnormalities,lethargy,scabs_comb_wattles,bluish_discoloration,wet_litter,skin_lesions,dry_comb,diarrhea,weight_loss,feather_loss,unsteady_gait,arched_back,joint_swelling,sudden_death,comb_paleness,labored_breathing,unusual_feces,incoordination,swollen_head,drooping_wings,loss_balance,bloody_diarrhea,disease
+1,1,1,0,0,0,0,1,1,1,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,1,1,0,0,0,0,0,0,0,Newcastle Disease
+0,0,0,0,1,1,0,1,1,1,0,0,0,0,0,0,0,0,1,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Coccidiosis
+0,0,0,0,0,1,1,1,1,1,0,0,0,0,0,0,0,0,1,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Fowl Typhoid
+1,1,1,1,0,0,0,1,1,1,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,1,1,0,0,0,0,0,0,0,Infectious Coryza
+0,0,0,0,0,0,0,0,0,1,0,0,1,1,1,0,0,0,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,0,0,1,1,1,1,1,Marek's Disease
+0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,1,1,1,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Egg Drop Syndrome
+1,1,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,Infectious Bronchitis
+0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,1,0,0,0,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Avian Influenza
+0,0,0,0,1,1,1,1,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Eimeria
+0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,1,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Sour Crop
