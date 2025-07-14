@@ -1,0 +1,13 @@
+# Ignore virtual environment
+venv/
+# Ignore Python cache
+__pycache__/
+*.pyc
+# Ignore large model files
+ml_models/breed_classifier/breed_model.h5
+ml_models/disease_model.pkl
+# Streamlit cache
+.streamlit/
+# Ignore system files
+.DS_Store
+Thumbs.db
