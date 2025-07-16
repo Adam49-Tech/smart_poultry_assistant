@@ -6,5 +6,8 @@ __pycache__/
 *.pyd
 *.db
 *.h5
-*.csv
+*.jpg
+*.png
+*.jpeg
+*.DS_Store
 .streamlit/
